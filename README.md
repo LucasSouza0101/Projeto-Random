@@ -15,26 +15,34 @@
     <td>
       <figure>
         <figcaption>Desktop:</figcaption>
-        <img src="https://github.com/LucasSouza0101/Currency-Converter/blob/main/assets/currency%20converter%20desktop%20version.png?raw=true" alt="desktop-image" style="width: 100%;">
+        <img src="https://raw.githubusercontent.com/LucasSouza0101/Projeto-Random/c4f5125fc936cf601f912adc27f2b6d74d686db8/assets/desktop-random.png" alt="desktop-image" style="width: 100%;">
       </figure>
     </td>
     <td>
      <figure>
-       <figcaption>Mobile:</figcaption>
-       <img src="https://github.com/LucasSouza0101/Currency-Converter/blob/main/assets/currency%20converter%20mobile%20version.png?raw=true" alt="mobile-image" style="width: 100%;">
+       <figcaption>Tablet:</figcaption>
+       <img src="https://raw.githubusercontent.com/LucasSouza0101/Projeto-Random/c4f5125fc936cf601f912adc27f2b6d74d686db8/assets/ipad-random.png" alt="tablet-image" style="width: 100%;">
      </figure> 
     </td>
     <td>
      <figure>
        <figcaption>Mobile:</figcaption>
-       <img src="https://github.com/LucasSouza0101/Currency-Converter/blob/main/assets/currency%20converter%20mobile%20version.png?raw=true" alt="mobile-image" style="width: 100%;">
+       <img src="https://raw.githubusercontent.com/LucasSouza0101/Projeto-Random/c4f5125fc936cf601f912adc27f2b6d74d686db8/assets/mobile-random.png" alt="mobile-image" style="width: 100%;">
      </figure> 
     </td>
   </tr>
 </table>
 <h4 align="center">Tecnologias Utilizadas</h4>
-
-<p align="center">- HTML5</p>
-<p align="center">- CSS3</p>
-<p align="center">- JavaScript</p>
+<br>
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=html-logo>
+</p>
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=css-logo>
+</p>
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=java-logo>
+</p>
 
