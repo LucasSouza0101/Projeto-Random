@@ -20,6 +20,8 @@
         <img src="./assets/desktop-random.png" alt="desktop-image" style="width: 100%;">
       </figure>
     </td>
+  </tr>
+  <tr>
     <td>
      <figure>
        <figcaption>Tablet:</figcaption>
