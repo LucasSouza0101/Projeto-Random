@@ -1,24 +1,36 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link href="./style.css" rel="stylesheet">
-    <title>DevSorteio</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="icon" type="image/png" href="./assets/d20.png">
+    <title>Sorteador de Números</title>
 </head>
-<body>
-    <img src="./assets/dicelogo.png" alt="dice-dev-sorteio-logo" class="img-logo">
 
-    <h2>Sortear um número</h2>
-    
+<body>
+
+    <img src="./assets/tumblr_inline_p7q5ynRdxO1svbcff_500.gif" alt="dice" class="dice">
+
+    <h2>Sorteio</h2> 
+
     <div>
-        <input placeholder="entre" class="input-min" type="number">
-        <input placeholder="e" class="input-max" type="number">
+        <input type="number" class="input-min">
+        <p>ao</p>
+        <input type="number" class="input-max">
     </div>
-    <button onclick="generateNumber()">Sortear</button>
+
+    <button onclick="randomize()" class="button">Sortear</button>
+
+    <p class="resultado"></p>
+
 </body>
 <script src="./script.js"></script>
+
 </html>
