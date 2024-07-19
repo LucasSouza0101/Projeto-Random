@@ -17,6 +17,7 @@
     <td>
       <figure>
         <figcaption>Desktop:</figcaption>
+        <img src="./assets/desktop-random.png" alt="Descrição da Imagem">
         <img src="https://raw.githubusercontent.com/LucasSouza0101/Projeto-Random/c4f5125fc936cf601f912adc27f2b6d74d686db8/assets/desktop-random.png" alt="desktop-image" style="width: 100%;">
       </figure>
     </td>
