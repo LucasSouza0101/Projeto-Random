@@ -18,19 +18,18 @@
       <figure>
         <figcaption>Desktop:</figcaption>
         <img src="./assets/desktop-random.png" alt="desktop-image" style="width: 100%;">
-        <img src="https://raw.githubusercontent.com/LucasSouza0101/Projeto-Random/c4f5125fc936cf601f912adc27f2b6d74d686db8/assets/desktop-random.png" alt="desktop-image" style="width: 100%;">
       </figure>
     </td>
     <td>
      <figure>
        <figcaption>Tablet:</figcaption>
-       <img src="https://raw.githubusercontent.com/LucasSouza0101/Projeto-Random/c4f5125fc936cf601f912adc27f2b6d74d686db8/assets/ipad-random.png" alt="tablet-image" style="width: 100%;">
+       <img src="./assets/ipad-random.png" alt="tablet-image" style="width: 100%;">
      </figure> 
     </td>
     <td>
      <figure>
        <figcaption>Mobile:</figcaption>
-       <img src="https://raw.githubusercontent.com/LucasSouza0101/Projeto-Random/c4f5125fc936cf601f912adc27f2b6d74d686db8/assets/mobile-random.png" alt="mobile-image" style="width: 100%;">
+       <img src="./assets/mobile-random.png" alt="mobile-image" style="width: 100%;">
      </figure> 
     </td>
   </tr>
