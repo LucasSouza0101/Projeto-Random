@@ -7,7 +7,7 @@
 <p align="center">1. Insira os valores mínimo e máximo nos campos correspondentes.</p>
 <p align="center">2. Clique no botão "Sortear" para gerar um número aleatório no intervalo especificado.</p>
 
-<p>⚠️ Não insira números maiores do que o valor máximo no campo de valor mínimo</p>
+<p  align="center">⚠️ Não insira números maiores do que o valor máximo no campo de valor mínimo</p>
 
 <h3 align="center">Portabilidade</h3>
 
